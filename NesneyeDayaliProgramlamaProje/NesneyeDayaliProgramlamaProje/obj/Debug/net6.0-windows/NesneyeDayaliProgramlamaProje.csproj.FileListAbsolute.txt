@@ -1,0 +1,17 @@
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\obj\Debug\net6.0-windows\NesneyeDayaliProgramlamaProje.csproj.AssemblyReference.cache
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\obj\Debug\net6.0-windows\NesneyeDayaliProgramlamaProje.Form1.resources
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\obj\Debug\net6.0-windows\NesneyeDayaliProgramlamaProje.csproj.GenerateResource.cache
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\obj\Debug\net6.0-windows\NesneyeDayaliProgramlamaProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\obj\Debug\net6.0-windows\NesneyeDayaliProgramlamaProje.AssemblyInfoInputs.cache
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\obj\Debug\net6.0-windows\NesneyeDayaliProgramlamaProje.AssemblyInfo.cs
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\obj\Debug\net6.0-windows\NesneyeDayaliProgramlamaProje.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\bin\Debug\net6.0-windows\NesneyeDayaliProgramlamaProje.exe
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\bin\Debug\net6.0-windows\NesneyeDayaliProgramlamaProje.deps.json
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\bin\Debug\net6.0-windows\NesneyeDayaliProgramlamaProje.runtimeconfig.json
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\bin\Debug\net6.0-windows\NesneyeDayaliProgramlamaProje.dll
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\bin\Debug\net6.0-windows\NesneyeDayaliProgramlamaProje.pdb
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\obj\Debug\net6.0-windows\NesneyeDayaliProgramlamaProje.dll
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\obj\Debug\net6.0-windows\refint\NesneyeDayaliProgramlamaProje.dll
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\obj\Debug\net6.0-windows\NesneyeDayaliProgramlamaProje.pdb
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\obj\Debug\net6.0-windows\NesneyeDayaliProgramlamaProje.genruntimeconfig.cache
+C:\Users\Ahmet Yunus Çavuş\source\repos\NesneyeDayaliProgramlamaProje\NesneyeDayaliProgramlamaProje\obj\Debug\net6.0-windows\ref\NesneyeDayaliProgramlamaProje.dll
